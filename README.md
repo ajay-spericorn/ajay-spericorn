@@ -1,21 +1,14 @@
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║        ██████╗      ██╗ █████╗ ██╗   ██╗                    ║
-║       ██╔══██╗     ██║██╔══██╗╚██╗ ██╔╝                    ║
-║       ███████║     ██║███████║ ╚████╔╝                      ║
-║       ██╔══██║██   ██║██╔══██║  ╚██╔╝                       ║
-║       ██║  ██║╚█████╔╝██║  ██║   ██║                        ║
-║       ╚═╝  ╚═╝ ╚════╝ ╚═╝  ╚═╝   ╚═╝                        ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
-```
+<!-- Animated top banner -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:0D1117&height=200&section=header&text=AJAY&fontSize=90&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20·%20Backend%20Specialist&descAlignY=58&descSize=18&animation=fadeIn)
 
-# Ajay · Full-Stack Engineer
+<!-- Typing animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Backend+Architect+%F0%9F%8F%97%EF%B8%8F;Node.js+%7C+PostgreSQL+%7C+Prisma;Building+Production-Grade+Systems+%F0%9F%94%A5;Growing+toward+AI+%26+Distributed+Systems+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Backend+Architect+%F0%9F%8F%97%EF%B8%8F;Node.js+%7C+PostgreSQL+%7C+Prisma;Building+Production-Grade+Systems;Growing+toward+AI+%26+Distributed+Systems)](https://git.io/typing-svg)
+<br/>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=ajay-spericorn&color=00D9FF&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -39,7 +32,8 @@ I focus on building **structured, secure, and production-grade systems** using N
 
 <div align="center">
 
-### ⚙️ Backend
+**⚙️ Backend**
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -47,10 +41,14 @@ I focus on building **structured, secure, and production-grade systems** using N
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)
 
-### 🎨 Frontend
+<br/>
+
+**🎨 Frontend**
+
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
 
 </div>
 
@@ -74,10 +72,10 @@ I focus on building **structured, secure, and production-grade systems** using N
 
 | Area | Status |
 |---|---|
-| 🏛️ System Design Patterns | `In Progress` |
-| 🌐 Distributed Systems Basics | `In Progress` |
-| 🤖 AI System Architecture | `Exploring` |
-| 🐘 Advanced PostgreSQL Internals | `Deep Diving` |
+| 🏛️ System Design Patterns | ![In Progress](https://img.shields.io/badge/In%20Progress-00D9FF?style=flat-square) |
+| 🌐 Distributed Systems Basics | ![In Progress](https://img.shields.io/badge/In%20Progress-00D9FF?style=flat-square) |
+| 🤖 AI System Architecture | ![Exploring](https://img.shields.io/badge/Exploring-A8FF78?style=flat-square) |
+| 🐘 Advanced PostgreSQL Internals | ![Deep Diving](https://img.shields.io/badge/Deep%20Diving-A78BFA?style=flat-square) |
 
 ---
 
@@ -107,10 +105,8 @@ I focus on building **structured, secure, and production-grade systems** using N
 
 ---
 
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:0D1117&height=100&section=footer&animation=fadeIn)
+
 <div align="center">
-
-![Visitor Count](https://komarev.com/ghpvc/?username=ajay-spericorn&color=00D9FF&style=flat-square&label=Profile+Views)
-
-*"Building systems that are meant to last."*
-
+  <i>"Building systems that are meant to last."</i>
 </div>
