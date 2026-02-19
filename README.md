@@ -4,7 +4,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:003554,60:006494,100:00D9FF&height=280&section=header&text=AJAY&fontSize=100&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Engineer%20%E2%80%A2%20Backend%20Architect%20%E2%80%A2%20AI%20Explorer&descAlignY=60&descSize=16&animation=fadeIn&fontAlign=50&stroke=00D9FF&strokeWidth=2)
 
 <!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&width=650&lines=🏗️+Backend+Architect+%7C+Node.js+%7C+PostgreSQL;🔐+Secure+Auth+%7C+JWT+%7C+Prisma+ORM;🧠+Service+Architecture+%7C+Database-First+Design;🤖+Growing+toward+AI+%26+Distributed+Systems;🛝+Code+is+my+playground+—+always+building)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&width=650&lines=🏗️+Backend+Architect+%7C+Node.js+%7C+PostgreSQL;🔐+Secure+Auth+%7C+JWT+%7C+Prisma+ORM;🐍+Python+%7C+TypeScript+%7C+JavaScript;🐳+Docker+%7C+Azure+%7C+CI%2FCD+Pipelines;🧠+Service+Architecture+%7C+Database-First+Design;📊+Exploring+Data+Science+%26+AI+Systems;🛝+Code+is+my+playground+—+always+building)](https://git.io/typing-svg)
 
 <br/>
 
@@ -36,10 +36,11 @@
 Full-stack engineer with a **strong backend orientation**.
 Building **structured, secure, and production-grade systems**.
 
-🏗️ **Service-based architecture** — thin controllers, logic in services  
-🧩 **System structure** over quick fixes, always  
-🛝 **Code is my playground** — experimenting, breaking, rebuilding  
+🏗️ **Service-based architecture** — thin controllers, logic in services
+🧩 **System structure** over quick fixes, always
+🛝 **Code is my playground** — experimenting, breaking, rebuilding
 🤖 Growing toward **AI system architecture** & **distributed systems**
+📊 Currently diving deep into **Data Science**
 
 </td>
 </tr>
@@ -54,28 +55,43 @@ Building **structured, secure, and production-grade systems**.
 
 <div align="center">
 
-### ⚙️ Backend & Database
+### ⚙️ Backend
 
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
 [![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgresql.org)
-[![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)](https://prisma.io)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://typescriptlang.org)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)](https://jwt.io)
 [![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)](https://stripe.com)
+
+### 🗄️ Databases & ORM
+
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgresql.org)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://mongodb.com)
+[![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)](https://prisma.io)
+[![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)](https://mongoosejs.com)
 
 ### 🎨 Frontend
 
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://typescriptlang.org)
 [![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)](https://react-hook-form.com)
+
+### ☁️ DevOps & Cloud
+
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com)
+[![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions)
+[![CI/CD](https://img.shields.io/badge/CI%2FCD-Pipeline-00D9FF?style=for-the-badge&logo=azure-devops&logoColor=white)](https://azure.microsoft.com/en-us/products/devops)
 
 ### 🧰 Tools & Environment
 
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ajay-spericorn)
-[![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://postman.com)
+[![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://linux.org)
 
 </div>
@@ -106,17 +122,34 @@ Building **structured, secure, and production-grade systems**.
 
 | 🔬 Area | 📊 Progress | 🏷️ Status |
 |---------|-------------|-----------|
-| 🏛️ **System Design Patterns** | `████████░░` 80% | ![In Progress](https://img.shields.io/badge/IN%20PROGRESS-00D9FF?style=flat-square&logoColor=white) |
-| 🌐 **Distributed Systems Basics** | `██████░░░░` 60% | ![In Progress](https://img.shields.io/badge/IN%20PROGRESS-00D9FF?style=flat-square&logoColor=white) |
+| 🏛️ **System Design Patterns** | `████████░░` 80% | ![In Progress](https://img.shields.io/badge/IN%20PROGRESS-00D9FF?style=flat-square) |
+| 🌐 **Distributed Systems Basics** | `██████░░░░` 60% | ![In Progress](https://img.shields.io/badge/IN%20PROGRESS-00D9FF?style=flat-square) |
 | 🤖 **AI System Architecture** | `████░░░░░░` 40% | ![Exploring](https://img.shields.io/badge/EXPLORING-A8FF78?style=flat-square&logoColor=black) |
-| 🐘 **Advanced PostgreSQL Internals** | `███████░░░` 70% | ![Deep Diving](https://img.shields.io/badge/DEEP%20DIVING-A78BFA?style=flat-square&logoColor=white) |
+| 🐘 **Advanced PostgreSQL Internals** | `███████░░░` 70% | ![Deep Diving](https://img.shields.io/badge/DEEP%20DIVING-A78BFA?style=flat-square) |
+| 📊 **Data Science** | `███░░░░░░░` 30% | ![Learning](https://img.shields.io/badge/LEARNING-FF6B6B?style=flat-square) |
+
+</div>
+
+---
+
+<!-- DATA SCIENCE SECTION -->
+## 📊 Data Science Journey
+
+<div align="center">
+
+| 🧪 Topic | 🛠️ Tools |
+|----------|----------|
+| **Data Analysis & Manipulation** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) |
+| **Data Visualization** | ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Machine Learning** | ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) |
+| **Notebooks & Experimentation** | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white) |
 
 </div>
 
 ---
 
 <!-- GITHUB STATS -->
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <div align="center">
 
@@ -130,7 +163,7 @@ Building **structured, secure, and production-grade systems**.
 ---
 
 <!-- ACTIVITY GRAPH -->
-## 📈 Contribution Activity
+## 📉 Contribution Activity
 
 <div align="center">
 
@@ -152,7 +185,7 @@ Building **structured, secure, and production-grade systems**.
 <br/>
 
 ```
-Always open to: system design discussions · backend architecture · AI experiments
+Always open to: system design · backend architecture · AI experiments · data science collabs
 ```
 
 </div>
